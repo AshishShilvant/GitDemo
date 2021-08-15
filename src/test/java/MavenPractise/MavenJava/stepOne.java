@@ -6,6 +6,8 @@ public class stepOne {
 		// TODO Auto-generated method stub
 		
 		System.out.println("this is new code from GitDemo");
+		
+		System.out.println("this is new code from GitData");
 
 	}
 
